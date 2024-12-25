@@ -4,7 +4,6 @@ The program monitors vehicles and equipment in real time, identifying components
 
 <img src="https://github.com/ailton-santos/Neural_Inline/blob/main/Bus_SPTRANS.jpg" alt="Onibus São Paulo">
 
-- Braking: Wear and tear on brake systems.
 - Engines: Temperature and vibration.
 - Fuel consumption: Analysis of efficiency in diesel vehicles.
 
