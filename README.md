@@ -12,7 +12,7 @@ Transport disruptions cause:
 - Impacts on passengers.
 - High emergency maintenance costs.
 
-### Partial Results:
+### Results:
 
 <img src="https://github.com/ailton-santos/Neural_Inline/blob/main/Results_P1.jpg" alt="Results - Part1">
   
