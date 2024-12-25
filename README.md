@@ -11,3 +11,5 @@ The program monitors vehicles and equipment in real time, identifying components
 Transport disruptions cause:
 - Impacts on passengers.
 - High emergency maintenance costs.
+- Results:
+  
