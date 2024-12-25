@@ -11,5 +11,8 @@ The program monitors vehicles and equipment in real time, identifying components
 Transport disruptions cause:
 - Impacts on passengers.
 - High emergency maintenance costs.
-- Results:
+
+### Partial Results:
+
+<img src="https://github.com/ailton-santos/Neural_Inline/blob/main/Results_P1.jpg" alt="Results - Part1">
   
